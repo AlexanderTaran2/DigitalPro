@@ -1,0 +1,8 @@
+{
+  "name": "digitalpro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Запуск приложения'",
+    "build": "echo 'Сборка завершена'"
+  }
+}
